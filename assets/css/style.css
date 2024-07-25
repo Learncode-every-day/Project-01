@@ -410,7 +410,7 @@ a {
     padding: 79px 0 0 165px;
 }
 
-.stats .stats-trend {
+.stats-trend {
     position: absolute;
     top: 0;
     left: 0;
